@@ -1,0 +1,27 @@
+{
+  "name": "secure-private-api",
+  "version": "1.0.0",
+  "description": "An npm package to verify your private api through jwt token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh31015/secure-private-api.git"
+  },
+  "keywords": [
+    "npm",
+    "jwt-token",
+    "secure-private-api"
+  ],
+  "author": "Rajesh Kumar Bhagat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rajesh31015/secure-private-api/issues"
+  },
+  "homepage": "https://github.com/rajesh31015/secure-private-api#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
